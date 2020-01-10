@@ -1,11 +1,8 @@
-package com.example.carefree;
+package com.befree.carefree;
 
 
-import android.os.Build;
 import android.os.Bundle;
 
-import androidx.annotation.RequiresApi;
-import androidx.cardview.widget.CardView;
 import androidx.fragment.app.Fragment;
 
 import android.view.LayoutInflater;

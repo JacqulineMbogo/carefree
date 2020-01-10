@@ -1,4 +1,4 @@
-package com.example.carefree;
+package com.befree.carefree;
 
 import android.content.Context;
 

@@ -1,6 +1,6 @@
-package com.example.carefree.data;
+package com.befree.carefree.data;
 
-import com.example.carefree.model.Quote;
+import com.befree.carefree.model.Quote;
 
 
 import java.util.ArrayList;

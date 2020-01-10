@@ -1,4 +1,4 @@
-package com.example.carefree.data;
+package com.befree.carefree.data;
 
 
 import android.util.Log;
@@ -7,8 +7,8 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.example.carefree.controller.AppController;
-import com.example.carefree.model.Quote;
+import com.befree.carefree.controller.AppController;
+import com.befree.carefree.model.Quote;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.example.carefree.model;
+package com.befree.carefree.model;
 
 
 public class Quote {
